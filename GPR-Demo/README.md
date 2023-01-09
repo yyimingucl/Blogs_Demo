@@ -5,7 +5,7 @@ Blog URL (ZH):
 
 Bolg URL (EN):
 # 2d-Gaussian
-![image]([https://github.com/MissuQAQ/Blogs_Demo/main/GPR-Demo/image_file/](https://github.com/yyimingucl/Blogs_Demo/blob/main/GPR-Demo/image_file/figure1.3.png)
+![image][https://github.com/MissuQAQ/Blogs_Demo/main/GPR-Demo/image_file/](https://github.com/yyimingucl/Blogs_Demo/blob/main/GPR-Demo/image_file/figure1.3.png]
 # 20d-Gaussain with samples
 ![image]([https://github.com/MissuQAQ/GPR-Demo/blob/main/image_file/](https://github.com/yyimingucl/Blogs_Demo/blob/main/GPR-Demo/image_file/finite_demo.png)
 # Gaussian process prior
