@@ -1,0 +1,8 @@
+diffrax==0.3.1
+jax==0.4.8
+jaxlib==0.4.7
+joblib==1.2.0
+numpy==1.24.2
+pandas==1.5.3
+pymc==5.1.2
+sunode==0.4.0
