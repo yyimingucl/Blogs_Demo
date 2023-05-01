@@ -16,10 +16,12 @@ To run the benchmarking code, you will need to have the following software insta
 - sunode
   
 To install the required packages, you can run the following command:
+
 `pip install -r requirements.txt`
 
 ### Usage 
 To run the benchmarking code, you can use the following command: 
+
 `python [test_model]_[solver].py`
 
 This will run the benchmarking code for specified test_model+solver, print the results to the console and save the results to `./results/[test_model]/[solver].txt`. They will run a Metropolis-Hasting MCMC using PyMC and specified solver with 2 parallel chains, where each chain optimized with 500 tune samples and draw 1000 samples.
