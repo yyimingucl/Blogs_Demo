@@ -1,3 +1,8 @@
+# Author: Yiming Yang
+# Contact: zcahyy1@ucl.ac.uk
+# Created: 29.11.2020
+# Description: Demonstration for Blog - Gaussian Process Classification and its Approximate Infence Approaches
+
 import numpy as np
 import matplotlib.pyplot as plt 
 from scipy.stats import norm

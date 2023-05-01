@@ -3,4 +3,5 @@
 |                                            | Blog on Zhihu (zh)                      | Blog on my website (en)                             |
 | ------------------------------------------ | --------------------------------------- | --------------------------------------------------- |
 | Gaussian Process Regression (GPR-Demo)     | [https://zhuanlan.zhihu.com/p/324710327]() | [https://yyimingucl.github.io/post/getting-started/]() |
-| Gaussian Process Classification (GPC-demo) | [https://zhuanlan.zhihu.com/p/580813985]() |                                                     |
+| Gaussian Process Classification (GPC-demo) | [https://zhuanlan.zhihu.com/p/580813985]() | [https://yyimingucl.github.io/post/gpc/]()                                                    |
+|Benchmark PyMC with Different ODE solvers

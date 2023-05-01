@@ -27,13 +27,13 @@ This will run the benchmarking code for specified test_model+solver, print the r
 ### Results
 The shown bar plot is the mean and variance taking over 20 times for each benchmark.
 #### Benchmark on Lotka Volterra
-![image](https://github.com/yyimingucl/Blogs_Demo/blob/main/ODE_MCMC_Benchmark/results/Lotka_Volterra/result.png)
+![image](https://github.com/yyimingucl/Blogs_Demo/blob/main/ODE_MCMC_Benchmark_Test/results/Lotka_Volterra/result.png)
 
 #### Benchmark on Lorenz63
-![image](https://github.com/yyimingucl/Blogs_Demo/blob/main/ODE_MCMC_Benchmark/results/Lorenz63/result.png)
+![image](https://github.com/yyimingucl/Blogs_Demo/blob/main/ODE_MCMC_Benchmark_Test/results/Lorenz63/result.png)
 
 #### Benchmark on Enzymatic Reaction
-![image](https://github.com/yyimingucl/Blogs_Demo/blob/main/ODE_MCMC_Benchmark/results/Enzymatic_Reaction/result.png)
+![image](https://github.com/yyimingucl/Blogs_Demo/blob/main/ODE_MCMC_Benchmark_Test/results/Enzymatic_Reaction/result.png)
 
 ### Conclusion 
 The benchmarking results show that JAX and Diffrax are around 1000 times faster than the PyMC default solver and 10 times faster than SUNODE, which is a remarkable improvement in speed :rocket:

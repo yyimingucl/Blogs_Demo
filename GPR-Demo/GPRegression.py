@@ -1,9 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 29 15:40:51 2020
+# Author: Yiming Yang
+# Contact: zcahyy1@ucl.ac.uk
+# Created: 29.11.2020
+# Description: Demonstration for Blog - From Gaussian Process back to Linear Regression
 
-@author: yyimi
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.sparse import diags
